@@ -10,5 +10,10 @@
     "module2": {
         "test": "my name is %{name}",
         "test2": "house is far"
-    }
+    },
+    "module3": {
+        "test1": "i love coding",
+        "test2": "i write often"
+    },
+    "test4": "home is were people are"
 }
