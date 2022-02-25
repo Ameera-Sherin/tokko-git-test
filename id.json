@@ -1,1 +1,14 @@
-
+{
+    "test1": "saya dapat mendengar Anda",
+    "test2": "Semoga kamu baik-baik saja",
+    "test3": "Berhenti mengganggu",
+    "module1": {
+        "test1": "saya dapat mendengar Anda",
+        "test2": "Semoga kamu baik-baik saja",
+        "test3": "Berhenti mengganggu"
+    },
+    "module2": {
+        "test": "nama saya %{name}",
+        "test2": "rumahnya jauh"
+    }
+}
